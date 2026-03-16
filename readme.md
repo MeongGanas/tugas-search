@@ -1,1 +1,1 @@
-(aturan.png)
+![Screenshot input](aturan.png)
