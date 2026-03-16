@@ -1,1 +1,1 @@
-(hasil_run.png)
+(aturan.png)
